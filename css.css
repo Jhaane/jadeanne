@@ -63,7 +63,7 @@ html::-webkit-scrollbar {
 #home {
     width: 100%;
     height: 90vh;
-    background-image: url('images/701b9e89-c794-40e6-b283-c863b511573f.jfif');
+    background-image: url('https://raw.githubusercontent.com/Jhaane/jadeanne/refs/heads/main/images/701b9e89-c794-40e6-b283-c863b511573f.jfif');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 88%;
@@ -98,7 +98,7 @@ html::-webkit-scrollbar {
 #about {
     width: 100%;
     height: 100vh;
-    background-image: url('images/coffee-shop.jfif');
+    background-image: url('https://raw.githubusercontent.com/Jhaane/jadeanne/refs/heads/main/images/coffee%20shop%20with%20warm%20atmosphere%20%5B%20wallpaper%204k%20%5D%20(1).jfif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -154,7 +154,7 @@ html::-webkit-scrollbar {
 #product {
     width: 100%;
     height: 60vh;
-    background-image: url('images/701b9e89-c794-40e6-b283-c863b511573f.jfif');
+    background-image: url('https://raw.githubusercontent.com/Jhaane/jadeanne/refs/heads/main/images/701b9e89-c794-40e6-b283-c863b511573f.jfif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -210,7 +210,7 @@ html::-webkit-scrollbar {
 #gallary {
     width: 100%;
     height: 200vh;
-    background-image: url('images/abstract-landscape.jfif');
+    background-image: url('https://raw.githubusercontent.com/Jhaane/jadeanne/refs/heads/main/images/abstract%20landscape%20posters_%20Modern%20background%20flat%20design%2C%20contemporary%20boho%20mountains%20minimalist%20wall%20decor_.jfif');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
